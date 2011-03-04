@@ -1,5 +1,3 @@
-= Getting Started =
-
 Before you can get the plugin, you need to add a repository to your pom:
 
 {{{
