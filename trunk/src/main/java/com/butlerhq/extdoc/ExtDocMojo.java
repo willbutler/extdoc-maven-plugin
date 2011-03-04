@@ -21,7 +21,7 @@ public class ExtDocMojo extends AbstractMojo {
     /**
      * Directory where documentation should be created
      *
-     * @parameter expression="${extdoc.output}" default-value="/target/extdoc"
+     * @parameter expression="${extdoc.output}" default-value="target/extdoc"
      * @required
      */
     private String output;
