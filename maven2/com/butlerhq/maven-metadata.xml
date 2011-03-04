@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>extdoc Maven Plugin</name>
+      <prefix>extdoc</prefix>
+      <artifactId>extdoc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
