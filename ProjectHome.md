@@ -1,0 +1,1 @@
+A Maven plugin that enables [extdoc](http://ext-doc.googlecode.com) generation. It can be used standalone or as a site integrated report.
